@@ -27,5 +27,4 @@
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristoferBorges&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://tenor.com/pt/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203" alt="GIF de gatinho">
 </div>
